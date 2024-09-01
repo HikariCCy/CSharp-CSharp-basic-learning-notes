@@ -1,2 +1,2 @@
-根据部分网络学习资料所写的C#笔记，建议有一定编程基础者阅读。
-大概率会添加DLC()。
+According to the C# notes written by some network learning materials, it is recommended that those who have a certain programming foundation read.
+Most likely some additional content will be added.
